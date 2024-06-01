@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Ольга Тюрина](https://up.htmlacademy.ru/htmlcss/40/user/216466).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт: [Мой сайт Седона](https://olgusha.github.io/216466-sedona-40/)
 
 ---
 
